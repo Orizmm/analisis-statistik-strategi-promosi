@@ -18,5 +18,8 @@ This project analyzes the effectiveness of two marketing promotion strategies: 2
 - Statistical testing confirms the difference is not due to chance (p-value < 0.05)
 - Advertising spend has a positive correlation with web traffic
 
+## 🔗 Project Link
+Link colab: https://colab.research.google.com/drive/1jjHqRDwfzUDWoZm8S_-BUinmOEsFPRVI?usp=sharing
+
 ## 🚀 Conclusion
 This analysis provides data-driven recommendations for optimizing promotional strategies and marketing budget allocation.
